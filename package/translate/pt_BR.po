@@ -36,7 +36,7 @@ msgstr "Esquemas de cores"
 
 #: ../contents/config/config.qml
 msgid "Support"
-msgstr ""
+msgstr "Suporte"
 
 #: ../contents/ui/components/Battery.qml ../contents/ui/pages/components/battery/BatteryItem.qml
 msgctxt "Placeholder is battery percentage"
@@ -45,11 +45,11 @@ msgstr "%1%"
 
 #: ../contents/ui/components/ColorSchemeSwitcher.qml
 msgid "Dark Theme"
-msgstr "Tema sombrio"
+msgstr "Tema Escuro"
 
 #: ../contents/ui/components/DndButton.qml
 msgid "Do Not Disturb"
-msgstr "Não incomodar"
+msgstr "Não Pertube"
 
 #: ../contents/ui/components/KDEConnect.qml
 msgid "KDE Connect"
@@ -77,11 +77,11 @@ msgstr "Rede"
 
 #: ../contents/ui/components/NightLight.qml ../contents/ui/pages/NightLightPage.qml
 msgid "Night Light"
-msgstr "Luz noturna"
+msgstr "Luz Noturna"
 
 #: ../contents/ui/components/RedShift.qml
 msgid "Night Color"
-msgstr "Cor noturna"
+msgstr "Cor Noturna"
 
 #: ../contents/ui/components/ScreenshotBtn.qml
 msgid "Screenshot"
@@ -110,12 +110,12 @@ msgstr "Ícone:"
 #: ../contents/ui/config/configAppearance.qml
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose…"
-msgstr ""
+msgstr "Escolher…"
 
 #: ../contents/ui/config/configAppearance.qml
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
-msgstr ""
+msgstr "Limpar Ícone"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Scale:"
@@ -139,11 +139,11 @@ msgstr "Flat"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Tahoe"
-msgstr ""
+msgstr "Tahoe"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "General:"
@@ -175,27 +175,27 @@ msgstr "Botões de alternância e controles deslizantes"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Toggle buttons"
-msgstr ""
+msgstr "Botões de alternância"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Highlight color: "
-msgstr ""
+msgstr "Cor de destaque"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Icon color: "
-msgstr ""
+msgstr "Cor do ícone"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Sliders controls style"
-msgstr ""
+msgstr "Estilo de controles deslizantes"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Sliders color: "
-msgstr ""
+msgstr "Cor dos controles deslizantes"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Show quick toggle buttons:"
-msgstr "Mostre botões de alternância rápida:"
+msgstr "Exibir os botões de alternância rápida:"
 
 #: ../contents/ui/config/configAppearance.qml
 msgid "Name:"
@@ -223,7 +223,7 @@ msgstr "Cor escura"
 
 #: ../contents/ui/config/configSupport.qml
 msgid "I'd be very thankful if you like to support the development of this applet by donating or by simply spreading the word, TIA! :)"
-msgstr ""
+msgstr "Eu ficaria muito grato se você quiser apoiar o desenvolvimento deste miniaplicativo doando ou simplesmente divulgando, TIA! :)"
 
 #: ../contents/ui/js/funcs.js
 msgid "Disabled"
@@ -243,7 +243,7 @@ msgstr "Não conectado"
 
 #: ../contents/ui/js/funcs.js
 msgid "On"
-msgstr "On"
+msgstr "Ligado"
 
 #: ../contents/ui/js/funcs.js ../contents/ui/pages/components/bluetooth/DeviceItem.qml ../contents/ui/pages/components/network/ConnectionItem.qml
 msgid "Connected"
@@ -259,7 +259,7 @@ msgstr "Bluetooth"
 
 #: ../contents/ui/pages/BatteryPage.qml
 msgid "The battery applet has enabled suppressing sleep and screen locking"
-msgstr "O miniaplicativo de bateria ativou a supressão de suspensão e bloqueio de tela"
+msgstr "O miniaplicativo de bateria permitiu suprimir o suspender e o bloqueio de tela"
 
 #: ../contents/ui/pages/BatteryPage.qml
 msgid "Power and Battery"
@@ -328,7 +328,7 @@ msgstr "A saúde dessa bateria está em apenas 1 % e deve ser substituída. Entr
 
 #: ../contents/ui/pages/components/battery/BatteryItem.qml
 msgid "Time To Full:"
-msgstr "Hora para carregar totalmente:"
+msgstr "Tempo para carregar totalmente:"
 
 #: ../contents/ui/pages/components/battery/BatteryItem.qml
 msgid "Remaining Time:"
@@ -337,7 +337,7 @@ msgstr "Tempo restante:"
 #: ../contents/ui/pages/components/battery/BatteryItem.qml
 msgctxt "@info"
 msgid "Estimating…"
-msgstr "Estimando..."
+msgstr "Estimando…"
 
 #: ../contents/ui/pages/components/battery/BatteryItem.qml
 msgid "Battery Health:"
@@ -350,7 +350,7 @@ msgstr "%1%"
 
 #: ../contents/ui/pages/components/battery/BatteryItem.qml
 msgid "Battery is configured to charge up to approximately %1%."
-msgstr "A bateria está configurada para carregar até aproximadamente 1 %."
+msgstr "A bateria está configurada para carregar até aproximadamente %1%."
 
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgctxt "@title:group"
@@ -370,11 +370,11 @@ msgstr "Automático"
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgctxt "@option:check Manually block sleep and screen locking after inactivity"
 msgid "Manually block"
-msgstr "Bloqueiar manualmente"
+msgstr "Bloquear manualmente"
 
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgid "Failed to unblock automatic sleep and screen locking"
-msgstr "Falhar para desbloquear a supressão automática e o bloqueio de tela"
+msgstr "Falha ao desbloquear a supressão automática e o bloqueio de tela"
 
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgid "Failed to block automatic sleep and screen locking"
@@ -383,7 +383,7 @@ msgstr "Falha ao bloquear a supessão automática e o bloqueia da tela"
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgctxt "Minimize the length of this string as much as possible"
 msgid "Your laptop is configured not to sleep when closing the lid while an external monitor is connected."
-msgstr "Seu notebook está configurado para não suspeder ao fechar a tampa enquanto um monitor externo está conectado."
+msgstr "Seu notebook está configurado para não suspender ao fechar a tampa enquanto um monitor externo está conectado."
 
 #: ../contents/ui/pages/components/battery/PowerManagementItem.qml
 msgid "%1 application is currently blocking sleep and screen locking:"
@@ -433,7 +433,7 @@ msgstr "Economia de Energia"
 
 #: ../contents/ui/pages/components/battery/PowerProfileItem.qml
 msgid "Balanced"
-msgstr "Baleceado"
+msgstr "Equilibrado"
 
 #: ../contents/ui/pages/components/battery/PowerProfileItem.qml
 msgid "Performance"
@@ -501,7 +501,7 @@ msgstr "Conectar"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml
 msgid "Browse Files"
-msgstr "Navegar entre os Arquivos"
+msgstr "Navegar nos Arquivos"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml
 msgid "Send File"
@@ -509,7 +509,7 @@ msgstr "Enviar arquivo"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml ../contents/ui/pages/components/network/DetailsText.qml
 msgid "Copy"
-msgstr "Cópiar"
+msgstr "Copiar"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml
 msgid "Yes"
@@ -526,7 +526,7 @@ msgstr "%1 (%2)"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml
 msgid "Remote Name"
-msgstr "Nome remoto"
+msgstr "Nome Remoto"
 
 #: ../contents/ui/pages/components/bluetooth/DeviceItem.qml
 msgid "Address"
@@ -619,7 +619,7 @@ msgstr "Alto"
 #: ../contents/ui/pages/components/brightness/BrightnessItem.qml
 msgctxt "Backlight on or off"
 msgid "On"
-msgstr "On"
+msgstr "Ligado"
 
 #: ../contents/ui/pages/components/brightness/BrightnessItem.qml
 msgctxt "Placeholder is brightness percentage"
@@ -638,7 +638,7 @@ msgstr "Brilho da Tela - %1"
 
 #: ../contents/ui/pages/components/brightness/KeyboardColorItem.qml
 msgid "Follow accent color"
-msgstr "Seguir cor de destaque"
+msgstr "Seguir a cor de destaque"
 
 #: ../contents/ui/pages/components/mediaPlayer/ExpandedRepresentation.qml
 msgctxt "Remaining time for song e.g -5:42"
@@ -676,7 +676,7 @@ msgstr "Repetir faixa"
 
 #: ../contents/ui/pages/components/mediaPlayer/ExpandedRepresentation.qml
 msgid "Repeat"
-msgstr "Repita"
+msgstr "Repetir"
 
 #: ../contents/ui/pages/components/network/ConnectionItem.qml
 msgid "Show Network's QR Code"
@@ -684,7 +684,7 @@ msgstr "Mostar QR Code da Rede"
 
 #: ../contents/ui/pages/components/network/ConnectionItem.qml ../contents/ui/pages/NightLightPage.qml
 msgid "Configure…"
-msgstr "Configure..."
+msgstr "Configure…"
 
 #: ../contents/ui/pages/components/network/ConnectionItem.qml
 msgid "Speed"
@@ -697,7 +697,7 @@ msgstr "Detalhes"
 #: ../contents/ui/pages/components/network/ConnectionItem.qml
 msgctxt "@info:tooltip"
 msgid "Current download speed is %1 kibibytes per second; current upload speed is %2 kibibytes per second"
-msgstr "A velocidade atual de download é %1 kibibytes por segundo; A velocidade atual do upload é %2 kibibytes por segundo "
+msgstr "A velocidade atual de download é %1 kilobytes por segundo; A velocidade atual do upload é %2 kilobytes por segundo "
 
 #: ../contents/ui/pages/components/network/ConnectionItem.qml
 msgid "Connected, ⬇ %1/s, ⬆ %2/s"
@@ -760,15 +760,15 @@ msgstr "Ativar modo avião<nl/><nl/>Isso desativará o Wi-Fi e o Bluetooth"
 
 #: ../contents/ui/pages/components/network/Toolbar.qml
 msgid "Hotspot"
-msgstr "Hotspot"
+msgstr "Roteador"
 
 #: ../contents/ui/pages/components/network/Toolbar.qml
 msgid "Disable Hotspot"
-msgstr "Desativar hotspot"
+msgstr "Desativar Roteador"
 
 #: ../contents/ui/pages/components/network/Toolbar.qml
 msgid "Create Hotspot"
-msgstr "Criar hotspot"
+msgstr "Criar Roteador"
 
 #: ../contents/ui/pages/components/network/Toolbar.qml
 msgid "Configure network connections…"
@@ -801,7 +801,7 @@ msgstr "Opções adicionais"
 
 #: ../contents/ui/pages/components/volume/ListItemBase.qml
 msgid "Show additional options for %1"
-msgstr "Mostrar opções adicionais para %1"
+msgstr "Exibir opções adicionais para %1"
 
 #: ../contents/ui/pages/components/volume/ListItemBase.qml
 msgctxt "@action:button"
@@ -838,7 +838,7 @@ msgstr "100%"
 
 #: ../contents/ui/pages/components/volume/StreamListItem.qml
 msgid "Stream name not found"
-msgstr "Nome do Stream não encontrado"
+msgstr "Nome do fluxo não encontrado"
 
 #: ../contents/ui/pages/MediaPlayerPage.qml
 msgid "Media Player"
@@ -875,17 +875,17 @@ msgstr "Não ativado"
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light status"
 msgid "Not running"
-msgstr "Não ocorrendo"
+msgstr "Não ativado"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light status"
 msgid "On"
-msgstr "On"
+msgstr "Ligar"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light phase"
 msgid "Morning Transition"
-msgstr "Transição da manhã"
+msgstr "Crepúsculo Matinal"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light phase"
@@ -895,7 +895,7 @@ msgstr "Dia"
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light phase"
 msgid "Evening Transition"
-msgstr "Transição noturna"
+msgstr "Crepúsculo Vespertino"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Night light phase"
@@ -914,7 +914,7 @@ msgstr "Suspender"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgid "Enable and Configure…"
-msgstr "Ativar e configurar..."
+msgstr "Ativar e configurar…"
 
 #: ../contents/ui/pages/NightLightPage.qml
 msgctxt "Label for a time"
@@ -954,7 +954,7 @@ msgstr "Desligar"
 
 #: ../contents/ui/pages/SystemSessionActionsPage.qml
 msgid "Hibernate"
-msgstr ""
+msgstr "Hibernar"
 
 #: ../contents/ui/pages/SystemSessionActionsPage.qml
 msgid "Lock Screen"
@@ -962,11 +962,11 @@ msgstr "Tela de bloqueio"
 
 #: ../contents/ui/pages/SystemSessionActionsPage.qml
 msgid "Log Out"
-msgstr "Log Out"
+msgstr "Deslogar"
 
 #: ../contents/ui/pages/SystemSessionActionsPage.qml
 msgid "Switch User"
-msgstr ""
+msgstr "Trocar de usuário"
 
 #: ../contents/ui/pages/VolumePage.qml
 msgid "Audio Volume"
@@ -990,7 +990,7 @@ msgstr "Aplicações"
 
 #: ../contents/ui/pages/VolumePage.qml
 msgid "Force mute all playback devices"
-msgstr "Force Mutar todos os dispositivos de reprodução"
+msgstr "Forçar mutar todos os dispositivos de reprodução"
 
 #: ../contents/ui/pages/VolumePage.qml
 msgid "Configure Audio Devices"
@@ -1007,10 +1007,10 @@ msgstr "Sem aplicativos tocando ou gravando de áudio"
 #~ msgstr "Cor de destaque"
 
 #~ msgid "Toggle buttons color"
-#~ msgstr "Botões de alternância cor"
+#~ msgstr "Cor dos botões de alternância"
 
 #~ msgid "Sliders color"
-#~ msgstr "Sliders Color"
+#~ msgstr "Cor dos controles deslizantes"
 
 #~ msgid "Volume:"
 #~ msgstr "Volume:"
